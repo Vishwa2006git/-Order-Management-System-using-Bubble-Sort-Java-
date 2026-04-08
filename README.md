@@ -2,7 +2,7 @@
 
 A Java-based order management system that efficiently stores, sorts, and searches customer orders using the Bubble Sort algorithm.
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
@@ -16,11 +16,11 @@ A Java-based order management system that efficiently stores, sorts, and searche
 - [Contributing](#contributing)
 - [License](#license)
 
-## 🎯 Overview
+##  Overview
 
 This Order Management System is designed to handle customer orders with efficient sorting and searching capabilities. The system uses the **Bubble Sort algorithm** to maintain sorted order records, enabling quick data retrieval and organized record management.
 
-## ✨ Features
+##  Features
 
 - **Order Storage**: Store customer orders with details (Order ID, Customer Name, Order Date, Amount, Status)
 - **Bubble Sort Implementation**: Efficiently sort orders by various criteria
@@ -31,14 +31,14 @@ This Order Management System is designed to handle customer orders with efficien
 - **Data Validation**: Input validation for order details
 - **Console-based Interface**: Simple command-line interface for easy interaction
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Language**: Java (JDK 8 or higher)
 - **Data Structures**: Arrays, Custom Objects
 - **Algorithm**: Bubble Sort
 - **I/O**: Scanner for user input, System.out for output
 
-## 💻 System Requirements
+##  System Requirements
 
 - Java Development Kit (JDK) 8 or higher
 - Any Java IDE (Eclipse, IntelliJ IDEA, NetBeans) or text editor
@@ -46,7 +46,7 @@ This Order Management System is designed to handle customer orders with efficien
 - Minimum 512 MB RAM
 - 50 MB free disk space
 
-## 📥 Installation
+##  Installation
 
 1. **Clone the repository**
    ```bash
@@ -69,7 +69,7 @@ This Order Management System is designed to handle customer orders with efficien
    java Main
    ```
 
-## 🚀 Usage
+##  Usage
 
 ### Running the Application
 
@@ -101,7 +101,7 @@ java Main
 4. **Display**: View all orders in sorted format
 5. **Update/Delete**: Modify or remove orders as needed
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 order-management-system/
@@ -120,7 +120,7 @@ order-management-system/
 └── LICENSE                      # License information
 ```
 
-## 🔄 Algorithm Implementation
+##  Algorithm Implementation
 
 ### Bubble Sort
 
@@ -155,7 +155,7 @@ public void bubbleSortByAmount(Order[] orders, int count) {
 }
 ```
 
-## 📊 Examples
+##  Examples
 
 ### Adding an Order
 
@@ -192,7 +192,7 @@ Amount: $2300.00
 Status: Pending
 ```
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -210,27 +210,27 @@ Contributions are welcome! Please follow these steps:
 - Write clean, readable code
 - Test thoroughly before submitting
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Authors
+##  Authors
 
 - Your Name - Initial work - [YourGitHub](https://github.com/yourusername)
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Inspired by real-world order management requirements
 - Educational demonstration of sorting algorithms
 - Thanks to the Java community for best practices
 
-## 📞 Contact
+##  Contact
 
 For questions or support, please contact:
 - Email: your.email@example.com
 - GitHub Issues: [Create an issue](https://github.com/yourusername/order-management-system/issues)
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - [ ] Implement more efficient sorting algorithms (Quick Sort, Merge Sort)
 - [ ] Add database integration (MySQL/PostgreSQL)
@@ -241,7 +241,6 @@ For questions or support, please contact:
 - [ ] Add email notifications
 - [ ] RESTful API integration
 
----
 
 **Note**: This is an educational project demonstrating sorting algorithms. For production systems handling large datasets, consider using more efficient sorting algorithms like Quick Sort or built-in Java Collections.sort().
 
