@@ -1,20 +1,59 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 📦 Order Management System (Java)
 
-# Run and deploy your AI Studio app
+## 👨‍🎓 Student Details
+- **Name:** Your Name  
+- **Reg No:** Your Register Number  
+- **Batch:** Your Batch  
+- **Course:** B25CSI201 – Data Structures  
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/4916fa04-7bbd-41b5-b72e-057d2dad9619
+## 📌 Project Title
+**Order Management System using Bubble Sort**
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## 📖 Description
+This project is a simple Java-based Order Management System that stores customer orders and demonstrates basic data structures concepts. It uses Bubble Sort to organize records and Linear Search to find specific orders, all within an easy-to-use menu-driven console application.
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## ❗ Problem Statement
+An order system stores customer orders and details. Records must be sorted and searched efficiently using Bubble Sort.
+
+---
+
+## 🎯 Objectives
+- Store customer order details  
+- Sort records using Bubble Sort  
+- Search records using Linear Search  
+- Implement a menu-driven system  
+
+---
+
+## 🧱 Data Structures Used
+- **Array** – to store order records  
+- **Class (Order)** – to represent each order  
+
+---
+
+## ⚙️ Algorithms Implemented
+- **Bubble Sort** – for sorting orders based on Order ID  
+- **Linear Search** – for searching a specific order  
+
+---
+
+## 🧩 Features
+- Insert new order  
+- Display all orders  
+- Sort orders (ascending order)  
+- Search order by ID  
+- Simple menu-driven interface  
+
+---
+
+## 🚀 How to Run
+
+### Step 1: Compile
+```bash
+javac OrderManagementSystem.java
