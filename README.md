@@ -161,7 +161,7 @@ public void bubbleSortByAmount(Order[] orders, int count) {
 
 ```
 Enter Order ID: 101
-Enter Customer Name: John Doe
+Enter Customer Name: Vishwa Mohan
 Enter Order Date (DD-MM-YYYY): 15-03-2024
 Enter Order Amount: 1500.50
 Enter Order Status (Pending/Processing/Delivered): Processing
@@ -216,7 +216,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ##  Authors
 
-- Your Name - Initial work - [YourGitHub](https://github.com/yourusername)
+- Your Name - Initial work - [YourGitHub](https://github.com/Vishwa2006git)
 
 ##  Acknowledgments
 
@@ -227,8 +227,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ##  Contact
 
 For questions or support, please contact:
-- Email: your.email@example.com
-- GitHub Issues: [Create an issue](https://github.com/yourusername/order-management-system/issues)
+- Email: your.vishwa462006@gmail.com
+- GitHub Issues: [Create an issue](https://github.com/vishwa2006git/order-management-system/issues)
 
 ##  Future Enhancements
 
